@@ -1,0 +1,1 @@
+This website is part of The Odin Project's HTML lessons. I will be creating a simple website to store recipes using HTML and pushing them with Git.
